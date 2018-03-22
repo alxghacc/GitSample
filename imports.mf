@@ -1,0 +1,5 @@
+<imports>
+  <package name="Sales Order" path="Sales Order\Import">
+    <dependson name="ConfigSolutionsVersion10" />
+  </package>
+</imports>
